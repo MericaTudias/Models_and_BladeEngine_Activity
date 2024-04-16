@@ -1,5 +1,5 @@
 <footer>
-    <h1>FOOTER TOH</h1>
+    <p class="text-2xl text-center py-8">The End!</p>
 </footer>
 </body>
 </html>
